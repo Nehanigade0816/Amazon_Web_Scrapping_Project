@@ -1,4 +1,3 @@
-![Screenshot (39)](https://github.com/user-attachments/assets/f98c09fb-d827-4c8b-b825-7a772d5a5499)
 <h1 align="centre" >🛒 Amazon Web Scraping </h1>
 
 🔍 **Overview**
@@ -54,4 +53,6 @@ Respect robots.txt files and avoid overloading a server with too many requests.
 Consider using APIs if available, as they provide structured data without legal concerns.
 
 **Happy Scraping!** 🚀
+
+![Screenshot (39)](https://github.com/user-attachments/assets/f98c09fb-d827-4c8b-b825-7a772d5a5499)
 
